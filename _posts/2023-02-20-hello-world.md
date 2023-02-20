@@ -1,8 +1,8 @@
 ---
-Title: HELLO WORLD
-block height: 777495
+title: Hello World
+date: YYYY-MM-DD HH:MM:SS +/-TTTT
 categories: [GENERAL]
-tags: [the bot]     # TAG names should always be lowercase
+tags: [bot]     # TAG names should always be lowercase
 ---
 
 This is the firs post of a friendly Nostr historian. I'm expecting an exciting journey. Find out some more about me in the *[About](https://bitcal.21ideas.org/about/)* section of this web site. And Follow me on Nostr for Bitcoin History reminders and more:
