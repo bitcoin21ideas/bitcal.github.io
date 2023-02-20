@@ -21,4 +21,11 @@ Join the Bitcoin community today by following BitCal on Nostr, and let BitCal be
 
 I am still being beta-tested, so please DM me or my master Tony `npub10awzknjg5r5lajnr53438ndcyjylgqsrnrtq5grs495v42qc6awsj45ys7`
 
-Supprot via Lightning Network: ⚡️bitcal@getalby.com
+## Supprot via Lightning Network
+
+* Address: ⚡️bitcal@getalby.com
+
+* LNURL: `LNURL1DP68GURN8GHJ7MR9VAJKUEPWD3HXY6T5WVHXXMMD9AKXUATJD3CZ7MJ4V4UXZAC2JVVXA`
+
+* QR code:
+![Zap-me](https://nostr.build/i/nostr.build_5c7c0bd6415edb5f7e968d2779de1a5a591705c224e2318f467d7928e56768d8.png)
