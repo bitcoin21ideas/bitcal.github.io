@@ -7,6 +7,6 @@ tags: [past, bitcoin]
 
 ### *Bitcoin historical events.*
 
-![Whitepaper](https://i.etsystatic.com/18952006/r/il/5d69db/3018606779/il_1140xN.3018606779_dka7.jpg)
+![Whitepaper](https://7bitcoins.com/wp-content/uploads/2018/10/bitcoin-whitepaper-1.jpg)
 
 
