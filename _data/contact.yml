@@ -4,8 +4,8 @@
   type: github
   icon: 'fab fa-github'
 -
-  type: telegram 
-  icon: 'fab fa-telegram'
+  type: podcast 
+  icon: 'fab fa-podcast'
 -
   type: email
   icon: 'fas fa-envelope'
