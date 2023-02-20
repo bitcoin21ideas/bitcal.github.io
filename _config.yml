@@ -21,7 +21,7 @@ timezone: UTC
 
 title: BitCal                          # the main title
 
-tagline: Your friendly Nostr historian and future teller npub10awzknjg5r5lajnr53438ndcyjylgqsrnrtq5grs495v42qc6awsj45ys7   # it will display as the sub-title
+tagline: Your friendly Nostr historian and future teller   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A simple Nostr bot that will answer any Bitcoin and Time related questions.
