@@ -1,6 +1,6 @@
 ---
 title: Hello World
-date: 2023-02-23 16:20:00 +/-TTTT
+date: 2023-02-23 16:20:00 +0000
 categories: [GENERAL]
 tags: [bot]     # TAG names should always be lowercase
 ---
