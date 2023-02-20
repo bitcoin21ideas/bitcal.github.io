@@ -38,15 +38,15 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: BitCal
-  email: bitcal@getalby.com             # change to your email address
+  name: Tony
+  email: lightning_tony@protonmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/username       # change to your github homepage
+    - https://github.com/bitcoin21ideas       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
-    # - https://twitter.com/username
+    # - https://www.21ideas.org/
+    # - https://nostr.21ideas.org/
+    # - https://fountain.fm/show/3oHhrXszyBGkVbCfWRxY
 
 google_site_verification:               # fill in to your verification string
 
