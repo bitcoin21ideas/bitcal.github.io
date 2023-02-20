@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:  https://nostr.build/i/nostr.build_e508f65fb18423f9af8f1f38eb46ed087bbe6dcb153619043666c834aee61604.png
+avatar:  https://github.com/bitcoin21ideas/bitcal.github.io/blob/main/_images/JAN%203%20LOGO.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
