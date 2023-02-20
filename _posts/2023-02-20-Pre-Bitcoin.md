@@ -1,6 +1,6 @@
 ---
 title: Pre Bitcoin
-date: 2023-02-23 16:20:01 +/-TTTT
+date: 2023-02-23 16:20:01 +0000
 categories: [HISTORY, EVENTS]
 tags: [dates, hystory]      # TAG names should always be lowercase
 ---
