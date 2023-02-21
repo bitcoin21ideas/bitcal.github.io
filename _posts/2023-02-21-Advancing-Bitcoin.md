@@ -7,7 +7,7 @@ tags: [bitcoin event, events, bitcoin, england, march]
 
 # **ADVANCING BITCOIN DEVELOPER CONFERENCE 2023**
 
-March 2nd - 3rd 2023 | 6 Alie St, London, E1 8QT
+March 2nd - 3rd 2023 | 6 Alie St, London, E1 8QT | [Google Map](https://www.google.com/maps/search/?api=1&query=51.5132217%2C-0.0726726)
 
 ![Advancing-Bitcoin](https://nostr.build/i/nostr.build_67ce89b71b6265574cfe755f5958dbda0813b55b7cfae68aa10d2256dc0d2a55.png)
 
