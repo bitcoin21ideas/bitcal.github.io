@@ -1,7 +1,7 @@
 ---
 title: Pre Bitcoin Era
 date: 2023-02-20 11:33:00 +0100
-categories: [History, Events]
+categories: [Pre Bitcoin Era, Events]
 tags: [cypherpunks, history]
 ---
 
