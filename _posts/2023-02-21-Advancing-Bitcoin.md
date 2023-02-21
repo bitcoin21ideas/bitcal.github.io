@@ -2,7 +2,7 @@
 title: Advancing Bitcoin
 date: 2023-02-21 08:25:00 +0100
 categories: [Upcomin, Events]
-tags: [bitcoin event, events, bitcoin, england, london, march]
+tags: [bitcoin event, events, bitcoin, england, march]
 ---
 
 # **ADVANCING BITCOIN DEVELOPER CONFERENCE 2023**
