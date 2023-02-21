@@ -7,7 +7,7 @@ tags: [bitcoin event, events, bitcoin, vietnam, march]
 
 # **BITCOIN AND SOUTHEAST ASIA GO HAND IN HAND**
 
-March 23-24 | Da Nang | Bitcoin Beach Vietnam
+March 23-24 | Da Nang | Bitcoin Beach Vietnam | [Google Map](https://www.google.com/maps/search/?api=1&query=16.039455%2C108.249811)
 
 ![LNCON-Vietnam](https://nostr.build/i/nostr.build_c4cdeeac69c707935828939707ee1eef1495146bd01a39fb4ba254e477101bfb.png)
 
