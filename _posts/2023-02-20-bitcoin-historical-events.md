@@ -1,7 +1,7 @@
 ---
 title: Bitcoin Historical Events
 date: 2023-02-20 11:20:00 +0100
-categories: [History, Events]
+categories: [Bitcoin History, Events]
 tags: [past, bitcoin]
 ---
 
