@@ -1,5 +1,5 @@
 ---
-title: Lightningcon Vietnam 
+title: Nigeria Bitcoin Conference 
 date: 2023-02-21 12:38:00 +0400
 categories: [Upcomin, Events]
 tags: [bitcoin event, events, bitcoin, nigeria, march]
