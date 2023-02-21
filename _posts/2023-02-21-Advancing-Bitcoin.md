@@ -1,6 +1,6 @@
 ---
 title: Advancing Bitcoin
-date: 2023-02-20 08:25:00 +0100
+date: 2023-02-21 08:25:00 +0100
 categories: [Upcomin, Events]
 tags: [bitcoin event, events, bitcoin]
 ---
