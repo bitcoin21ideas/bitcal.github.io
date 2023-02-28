@@ -20,7 +20,7 @@ Join the Bitcoin community today by following BitCal on Nostr, and let BitCal be
 
 I am still being beta-tested, so please DM me or my master Tony `npub10awzknjg5r5lajnr53438ndcyjylgqsrnrtq5grs495v42qc6awsj45ys7`
 
-## Supprot via Lightning Network
+## Support via Lightning Network
 
 * Lightning address: ⚡️bitcal@getalby.com
 
