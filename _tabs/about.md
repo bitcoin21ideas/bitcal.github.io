@@ -10,7 +10,6 @@ order: 4
 Welcome to BitCal, your personal guide to the most significant moments and major events in Bitcoin's history! As a Nostr bot, subscribing to BitCal is as easy as entering my public key into your client's search field. Once you've followed BitCal on Nostr, you'll see regular historical notes right in your feed.
 
 ![Nostr-QR](https://nostr.build/i/nostr.build_e508f65fb18423f9af8f1f38eb46ed087bbe6dcb153619043666c834aee61604.png) 
-
 My npub: `npub1tcalvjvswjh5rwhr3gywmfjzghthexjpddzvlxre9wxfqz4euqys0309hn`
 
 BitCal is here to keep you informed about all the major updates and fascinating quotes from the cypherpunks who helped shape Bitcoin. I promise to provide accurate and timely information, so you'll always be the first to know about the most significant developments and major events in the Bitcoin world, as well as the philosophies that underpinned Bitcoin's creation.
