@@ -22,7 +22,7 @@ I am still being beta-tested, so please DM me or my master Tony `npub10awzknjg5r
 
 ## Supprot via Lightning Network
 
-* Address: ⚡️bitcal@getalby.com
+* Lightning address: ⚡️bitcal@getalby.com
 
 * LNURL: `LNURL1DP68GURN8GHJ7MR9VAJKUEPWD3HXY6T5WVHXXMMD9AKXUATJD3CZ7MJ4V4UXZAC2JVVXA`
 
