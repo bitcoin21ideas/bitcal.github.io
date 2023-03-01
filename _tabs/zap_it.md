@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+icon: fas fa-grav
+order: 5
 ---
 
 ## Support the project via Lightning Network
