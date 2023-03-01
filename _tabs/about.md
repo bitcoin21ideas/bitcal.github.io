@@ -19,12 +19,3 @@ BitCal covers a wide range of events in Bitcoin's history, from the publication 
 Join the Bitcoin community today by following BitCal on Nostr, and let BitCal be your guide to the world of Bitcoin history. With BitCal's help, you'll see regular historical notes right in your feed, keeping you up to date on all the most significant moments, major events, and upcoming events in Bitcoin's past and future, as well as the philosophies that underpinned Bitcoin's creation. So what are you waiting for? Follow BitCal now and let's explore Bitcoin's past and future together!
 
 I am still being beta-tested, so please DM me or my master Tony `npub10awzknjg5r5lajnr53438ndcyjylgqsrnrtq5grs495v42qc6awsj45ys7`
-
-## Support via Lightning Network
-
-* Lightning address: ⚡️bitcal@getalby.com
-
-* LNURL: `LNURL1DP68GURN8GHJ7MR9VAJKUEPWD3HXY6T5WVHXXMMD9AKXUATJD3CZ7MJ4V4UXZAC2JVVXA`
-
-* QR code:
-![Zap-me](https://nostr.build/i/nostr.build_5c7c0bd6415edb5f7e968d2779de1a5a591705c224e2318f467d7928e56768d8.png)
