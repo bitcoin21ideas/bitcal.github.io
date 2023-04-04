@@ -8,7 +8,7 @@
   icon: 'fab fa-grav'
 -
   type: email
-  icon: 'fas fa-envelope'
+  icon: 'fas fa-bolt'
   noblank: true            # open link in current tab
 -
   type: rss
