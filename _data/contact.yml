@@ -7,8 +7,9 @@
   type: grav 
   icon: 'fab fa-grav'
 -
-  type: email
+  type: nostr
   icon: 'fas fa-bolt'
+  url: https://iris.to/bitcal
   noblank: true            # open link in current tab
 -
   type: rss
