@@ -9,7 +9,7 @@
 -
   type: nostr
   icon: 'fas fa-bolt'
-  url: https://iris.to/bitcal
+  url: nostr:npub1tcalvjvswjh5rwhr3gywmfjzghthexjpddzvlxre9wxfqz4euqys0309hn
   noblank: true            # open link in current tab
 -
   type: rss
